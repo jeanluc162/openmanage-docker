@@ -1,5 +1,5 @@
 FROM --platform=amd64 ubuntu:precise
-MAINTAINER Jean-Luc Trojahn "https://github.com/jeanluc162"
+LABEL maintainer="jeanluc1@live.de"
 
 ENV USER root
 
