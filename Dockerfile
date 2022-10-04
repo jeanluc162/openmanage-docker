@@ -1,4 +1,4 @@
-FROM ubuntu:precise
+FROM --platform=amd64 ubuntu:precise
 MAINTAINER Jean-Luc Trojahn "https://github.com/jeanluc162"
 
 ENV USER root
